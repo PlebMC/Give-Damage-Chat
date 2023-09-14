@@ -1,0 +1,7 @@
+name: Givedamagechat
+version: '${project.version}'
+main: lonestar.givedamagechat.Givedamagechat
+api-version: 1.15
+commands:
+  gdc:
+    description: Teaches you to heal in Minecraft.
